@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="congratulations_you_won">Congratulations You Won ! Password:</string>
+    <string name="you_lose">You Lose :( Correct Password:</string>
+    <string name="play_again_button">PLAY AGAIN</string>
+    <string name="quit_button">QUIT</string>
+</resources>
